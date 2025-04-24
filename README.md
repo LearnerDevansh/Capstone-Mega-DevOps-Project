@@ -82,3 +82,12 @@ This project showcases a **complete, production-grade DevSecOps pipeline** to de
 
 ## 📖 Read the Full Blog
 [**capstone-devops-project-enterprise-grade-cicd-pipeline-with-kubernetes-on-aws-jenkins-helm-ingress-and-monitoring**](https://itspraduman.hashnode.dev/capstone-devops-project-enterprise-grade-cicd-pipeline-with-kubernetes-on-aws-jenkins-helm-ingress-and-monitoring)
+
+## ☕ Support
+
+If you found this project helpful or interesting, consider supporting me by buying a coffee:
+
+<a href="https://www.buymeacoffee.com/praduman" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 145px !important;">
+</a>
+
